@@ -4,7 +4,7 @@
 
 ### all java :DDD
 
-[Coffee stain](coffestain.link)
+[Coffee stain](https://github.com/screwboss/loops/blob/gh-pages/coffeeloop.html)
 
 [Moiré Pattern Number Talk](numbertalk.link)
 
